@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alc 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to Alc 4.0</string>
+    <string name="about_button">Button</string>
+    <string name="profile_button">Button</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profle">My Profle</string>
+    <string name="profileimage">profile_image</string>
+    <string name="nyesigmwe_kelly">Nyesigmwe Kelly</string>
+    <string name="nyesigomwe_kelly">Nyesigomwe Kelly</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="uganda">Uganda</string>
+    <string name="ikellyomega0_gmail_com">ikellyomega0@gmail.com</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="_256756416610">+256756416610</string>
+    <string name="kelly">kelly</string>
+    <string name="email">Email:</string>
+    <string name="button">Button</string>
+</resources>
